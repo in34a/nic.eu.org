@@ -1,4 +1,4 @@
-个人翻墙及远程管理主机使用
+个人翻墙和作代理服务器使用
 httpproxy.eu.org
 socksproxy.eu.org
 SSHproxy.eu.org
@@ -15,7 +15,7 @@ sshtunnel.eu.org
 dnstunnel.eu.org
 
 
-为医院作OpenVPN计划使用
+为医院一类OpenVPN等计划使用。
 
 packetcapture.eu.org
 
@@ -32,3 +32,14 @@ pollution.eu.org
 dnshijacking.eu.org
 
 Domainnamehijacking.eu.org
+
+
+联机使用
+
+VirtualMachine.eu.org
+RemoteMachine.eu.org
+Remoteserver.eu.org
+
+openssh.eu.org
+Remotecontrol.eu.org
+RemoteDesktop.eu.org
